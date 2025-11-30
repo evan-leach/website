@@ -7,8 +7,8 @@ export default function About() {
         <h1 className="text-3xl font-semibold">About Me</h1>
 
         <p className="leading-relaxed">
-          Hello! I am an undergratuate senior at UCLA, graduating in Spring 2026. I am majoring in
-          mathematics of computation (BS) and pure mathematics (MS).
+          Hello! My name is Evan Leach, and I am an undergratuate senior at UCLA. I am graduating in
+          Spring 2026with a BS in mathematics of computation and ann MS in pure mathematics.
         </p>
 
         <p className="leading-relaxed">
