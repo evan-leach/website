@@ -61,7 +61,7 @@ const academics = [
     description: (
       <div className="space-y-4">
         <p>
-            These 45 problems cover the undergraduate real analysis curriculum. Here is one of my favorites:
+            These 47 problems cover the undergraduate real analysis curriculum. Here is one of my favorites:
         </p>
         <p className="pl-4">
             Define the <em>filling</em> <InlineMath math="F_f"/> of
@@ -98,14 +98,14 @@ export default function Academics() {
     <>
       <h1 className="text-3xl font-semibold text-center mt-4">Academics</h1>
       <p className="text-center text-white/80 text-sm mt-4 mb-10">
-        Below is a selection of my research and academic projects.
+        Below is a selection of my research and academic works.
       </p>
 
       <div className="space-y-5">
         {academics.map((entry, index) => (
           <div
             key={index}
-            className="flex flex-col items-start gap-4 rounded-xl bg-neutral-900/40 p-5 shadow-md"
+            className="flex flex-col items-start gap-4 rounded-xl bg-neutral-700/40 p-5 shadow-md"
           >
             <div className="space-y-2">
               <h2 className="text-2xl font-semibold">{entry.title}</h2>

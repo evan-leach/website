@@ -33,7 +33,7 @@ export default function Projects() {
     <>
     <h1 className="text-3xl font-semibold text-center mt-4">Projects</h1>
     <p className="text-center text-white/80 text-sm mt-4 mb-10">
-        Click any project to view more details.
+        Click any project to view it.
     </p>
 
     <div className="space-y-8">
@@ -54,7 +54,7 @@ export default function Projects() {
                 flex flex-col md:flex-row
                 ${isEven ? "md:flex-row" : "md:flex-row-reverse"}
                 items-center gap-6
-                rounded-xl bg-neutral-900/40 p-5 shadow-md
+                rounded-xl bg-neutral-700/40 p-5 shadow-md
                 hover:scale-[1.01] transition-transform duration-200
               `}
             >

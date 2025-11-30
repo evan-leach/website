@@ -2,7 +2,7 @@ import me from "../assets/Me.png";
 
 export default function About() {
   return (
-    <div className="flex flex-col md:flex-row items-center md:items-start md:justify-between gap-6">
+    <div className="flex flex-col md:flex-row items-center md:items-start md:justify-between gap-6 p-4">
       <div className="space-y-4 md:flex-1">
         <h1 className="text-3xl font-semibold">About Me</h1>
 
