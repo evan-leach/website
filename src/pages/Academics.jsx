@@ -61,7 +61,7 @@ const academics = [
     description: (
       <div className="space-y-4">
         <p>
-            These problems cover the undergraduate real analysis curriculum. Here is one of my favorites:
+            These 45 problems cover the undergraduate real analysis curriculum. Here is one of my favorites:
         </p>
         <p className="pl-4">
             Define the <em>filling</em> <InlineMath math="F_f"/> of
