@@ -62,7 +62,7 @@ export default function Projects() {
               <img
                 src={p.img}
                 alt={p.title}
-                className="w-full md:w-80 h-40 object-cover rounded-lg shadow-lg opacity-95 group-hover:opacity-100 transition-opacity"
+                className="w-full md:w-80 h-60 md:h-40 object-cover rounded-lg shadow-lg opacity-95 group-hover:opacity-100 transition-opacity"
               />
 
               {/* Text */}
