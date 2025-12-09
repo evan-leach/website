@@ -4,11 +4,11 @@ import project3 from "../assets/Redux.png";
 
 const projects = [
   {
-    title: "Metric spaces interactive website",
+    title: "Metric Spaces",
     img: project1,
     link: "https://evan-leach.github.io/metric-spaces/",
     description:
-      "Teaches the metric space curriculum through the equivalence of compactness with completeness\
+      "Interactive website teaching the metric space curriculum through the equivalence of compactness with completeness\
       and total boundedness. Ranked in the top 2% of entries to the 4th Summer of Math Exposition contest.",
   },
   {
