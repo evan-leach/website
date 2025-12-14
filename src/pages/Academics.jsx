@@ -57,6 +57,23 @@ const academics = [
     ),
   },
   {
+    title: "Polynomial Methods in Combinatorics",
+    description: (
+      <div>
+        Presented current research techniques from Professor Larry Guth's "Polynomial Methods in
+        Combinatorics," mentored by Elias Manuelides at UCLA. My slides can be found{" "}
+        <a
+          href="https://evan-leach.github.io/pdfs/Polynomial%20Method%20Slides.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="link"
+        >
+          here
+        </a>.
+      </div>
+    ),
+  },
+  {
     title: "Original Analysis Problems",
     description: (
       <div className="space-y-4">
