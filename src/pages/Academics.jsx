@@ -10,7 +10,7 @@ const academics = [
         process new, combinatorial proofs of results from descriptive set theory such as the analytic separation theorem
         and the existance of analytic sets which are not Borel. The paper be found{" "}
         <a
-          href="https://evan-leach.github.io/pdfs/Infinite%20Communication%20Complexity%20and%20KW%20Games.pdf"
+          href="https://evan-leach.github.io/pdfs/Infinite%20CC%20and%20KW%20Games.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="link"
