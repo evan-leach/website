@@ -2,6 +2,25 @@ import { InlineMath, BlockMath } from "react-katex";
 
 const academics = [
   {
+    title: "Infinite Communication Complexity and KW Games",
+    description: (
+      <div>
+        Formulated an infinite analog of communication complexity and Karchmer-Wigderson games under the mentorship of
+        Professor Anton Bernshteyn at UCLA. Characterized Borel sets in terms of communication problems, finding in the
+        process new, combinatorial proofs of results from descriptive set theory such as the analytic separation theorem
+        and the existance of analytic sets which are not Borel. The paper be found{" "}
+        <a
+          href="https://evan-leach.github.io/pdfs/Infinite%20Communication%20Complexity%20and%20KW%20Games.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="link"
+        >
+          here
+        </a>.
+      </div>
+    ),
+  },
+  {
     title: "Descriptive Set Theory and Circuit Complexity",
     description: (
       <div>
@@ -26,7 +45,7 @@ const academics = [
       <div>
         Independent work studying generalization via the state complexity of deterministic finite automata computing
         tagged unions of languages. Found sharp upper and lower bounds for the state complexity of such DFAs and a
-        complete characterization of when the upper bound can be beat. The writeup can be found{" "}
+        complete characterization of when the upper bound can be beaten. The writeup can be found{" "}
         <a
           href="https://evan-leach.github.io/pdfs/Tagged%20Unions%20for%20DFAs.pdf"
           target="_blank"
