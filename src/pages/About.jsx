@@ -7,24 +7,16 @@ export default function About() {
         <h1 className="text-3xl font-semibold">About Me</h1>
 
         <p className="leading-relaxed">
-          Hello! My name is Evan Leach, and I am a fourth-year undergratuate at UCLA. I am graduating in
-          Spring 2026 with a BS in mathematics of computation and an MS in pure mathematics.
+          Hello! My name is Evan Leach, and I am a first-year PhD student at MIT studying theoretical computer science.
+          I graduated in 2026 from UCLA with a BS in mathematics of computation and an MA in pure mathematics.
         </p>
 
         <p className="leading-relaxed">
-          My CV can be found{" "}
-          <a 
-            href="https://evan-leach.github.io/pdfs/CV.pdf" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            className="link"
-          >
-            here
-          </a>.
+          My research interests include complexity theory and mathematical logic.
         </p>
 
         <p className="leading-relaxed">
-          You can contact me at evanleach@g.ucla.edu.
+          You can contact me at eleach@mit.edu.
         </p>
       </div>
 

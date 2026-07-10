@@ -21,15 +21,15 @@ const academics = [
     ),
   },
   {
-    title: "Descriptive Set Theory and Circuit Complexity",
+    title: "Restrictions of Infinite Circuits",
     description: (
       <div>
-        Explored connections between countable circuits and Borel/analytic sets under the mentorship of Professor Anton
-        Bernshteyn at UCLA. Developed new circuit-based proofs for results from descriptive set theory and infinite circuit
-        complexity, including the Borel hierarchy theorem, Ramsey-like results, and the fact that no countable
-        circuit can compute an infinite parity function. My final report can be found{" "}
+        Formulated and proved an infinite analog of Håstad's switching lemma under the mentorship of
+        Professor Anton Bernshteyn at UCLA. Using the characterization of Borel sets by infinite circuits, this lemma
+        leads to a new, combinatorial proof of the Borel hierarchy theorem, along with several Ramsey-like properties of
+        Borel sets and functions. The paper be found{" "}
         <a
-          href="https://evan-leach.github.io/pdfs/DST%20and%20Circuit%20Complexity.pdf"
+          href="https://evan-leach.github.io/pdfs/Restrictions%20of%20Infinite%20Circuits.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="link"
